@@ -43,9 +43,5 @@ Configure the script by updating `config.py` file.
 ![IMG](https://pumpfun.bot/data/pumpfunbot-cmd.png)
 
 
-
-## 🛸 CONTACT
-Telegram: `@Arvingolshani`
-
 ## 🛰 Disclaimer
 Use this script at your own risk. 
