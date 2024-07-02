@@ -38,19 +38,11 @@ Configure the script by updating `config.py` file.
 6. `CHECK_TELEGRAM` (check if new pools have telegram)
 7. `BUY_AMOUNT` (set the default buy amount)
   
-## 🚀 COMMON ISSUES
+## 🚀 SCREENSHOT
 
-> [!IMPORTANT]
-> If you have an error which is not listed here, please create a new issue in this repository.
-> 
-> ### EMPTY TRANSACTION
-> If you see empty transactions on SolScan most likely fix is to change commitment level to `finalized`.
-> 
-> ### UNSOPPORTED RPC NODE
-> If you see following error in your log file:  
-> `Error: 410 Gone:  {"jsonrpc":"2.0","error":{"code": 410, "message":"The RPC call or parameters have been disabled."}, "id": "986f3599-b2b7-47c4-b951-074c19842bad" }`  
-> It means your RPC node doesn't support methods needed to execute script.
-> FIX: Change your RPC node. You can use Shyft, Helius or Quicknode.
+![IMG](https://pumpfun.bot/data/pumpfunbot-cmd.png)
+
+
 
 ## 🛸 CONTACT
 Telegram: `@Arvingolshani`
